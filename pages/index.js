@@ -3,11 +3,14 @@ import { ViewGridIcon, MicrophoneIcon } from '@heroicons/react/solid';
 import { SearchIcon } from '@heroicons/react/outline';
 import Image from 'next/image';
 
-import { Avatar } from '../components';
+import { Avatar, Footer } from '../components';
 
 export default function Home() {
+  const columnData1 = ['Advertising', 'Business', 'How Search works'];
+  const columnData2 = ['Privacy', 'Terms', 'Settings'];
+
   return (
-    <div>
+    <div className="flex flex-col items-center justify-center h-screen">
       <Head>
         <title>Google - Front End Product Design Analysis</title>
         <link rel="icon" href="/favicon.ico" />
@@ -32,7 +35,7 @@ export default function Home() {
       </header>
 
       {/* BODY/CONTENT */}
-      <form className="flex flex-col items-center mt-44 flex-grow">
+      <form className="flex flex-col items-center mt-44 flex-grow w-4/5">
         <Image
           src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
           height={100}
@@ -57,6 +60,13 @@ export default function Home() {
       </form>
 
       {/* FOOTER */}
+      <Footer
+        country="Poland"
+        colData1={columnData1}
+        colData2={columnData2}
+        wordPitcher="Carbon neutral since
+          2007"
+      />
     </div>
   );
 }
