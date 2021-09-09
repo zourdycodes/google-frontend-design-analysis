@@ -1,1 +1,95 @@
-[{"/home/zourdythedev/big-project/googlecl/components/index.js":"1","/home/zourdythedev/big-project/googlecl/next.config.js":"2","/home/zourdythedev/big-project/googlecl/pages/index.js":"3","/home/zourdythedev/big-project/googlecl/pages/_app.js":"4","/home/zourdythedev/big-project/googlecl/tailwind.config.js":"5"},{"size":35,"mtime":1631176681880,"results":"6","hashOfConfig":"7"},{"size":233,"mtime":1631167202020,"results":"8","hashOfConfig":"9"},{"size":918,"mtime":1631176681880,"results":"10","hashOfConfig":"7"},{"size":139,"mtime":1631176681880,"results":"11","hashOfConfig":"7"},{"size":243,"mtime":1631176681880,"results":"12","hashOfConfig":"7"},{"filePath":"13","messages":"14","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},"r00upm",{"filePath":"15","messages":"16","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},"16ihxrj",{"filePath":"17","messages":"18","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},{"filePath":"19","messages":"20","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},{"filePath":"21","messages":"22","errorCount":0,"fatalErrorCount":0,"warningCount":0,"fixableErrorCount":0,"fixableWarningCount":0},"/home/zourdythedev/big-project/googlecl/components/index.js",[],"/home/zourdythedev/big-project/googlecl/next.config.js",[],"/home/zourdythedev/big-project/googlecl/pages/index.js",[],"/home/zourdythedev/big-project/googlecl/pages/_app.js",[],"/home/zourdythedev/big-project/googlecl/tailwind.config.js",[]]
+[
+  {
+    "/home/zourdythedev/big-project/googlecl/components/index.js": "1",
+    "/home/zourdythedev/big-project/googlecl/next.config.js": "2",
+    "/home/zourdythedev/big-project/googlecl/pages/index.js": "3",
+    "/home/zourdythedev/big-project/googlecl/pages/_app.js": "4",
+    "/home/zourdythedev/big-project/googlecl/tailwind.config.js": "5"
+  },
+  {
+    "size": 35,
+    "mtime": 1631176681880,
+    "results": "6",
+    "hashOfConfig": "7"
+  },
+  {
+    "size": 265,
+    "mtime": 1631181882620,
+    "results": "8",
+    "hashOfConfig": "7"
+  },
+  {
+    "size": 1757,
+    "mtime": 1631183464360,
+    "results": "9",
+    "hashOfConfig": "7"
+  },
+  {
+    "size": 139,
+    "mtime": 1631176681880,
+    "results": "10",
+    "hashOfConfig": "7"
+  },
+  {
+    "size": 243,
+    "mtime": 1631176681880,
+    "results": "11",
+    "hashOfConfig": "7"
+  },
+  {
+    "filePath": "12",
+    "messages": "13",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "r00upm",
+  {
+    "filePath": "14",
+    "messages": "15",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "16",
+    "messages": "17",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "18",
+    "messages": "19",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "20",
+    "messages": "21",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "/home/zourdythedev/big-project/googlecl/components/index.js",
+  [],
+  "/home/zourdythedev/big-project/googlecl/next.config.js",
+  [],
+  "/home/zourdythedev/big-project/googlecl/pages/index.js",
+  [],
+  "/home/zourdythedev/big-project/googlecl/pages/_app.js",
+  [],
+  "/home/zourdythedev/big-project/googlecl/tailwind.config.js",
+  []
+]
