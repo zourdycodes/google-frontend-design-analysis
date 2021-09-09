@@ -1,7 +1,7 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ['restcountries.eu'],
+    domains: ['restcountries.eu', 'google.com', 'www.google.com'],
   },
   env: {
     mapbox_key:

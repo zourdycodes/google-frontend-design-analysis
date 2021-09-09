@@ -2,6 +2,7 @@ import React from 'react';
 
 export const Avatar = ({ url, seo }) => {
   return (
+    // eslint-disable-next-line @next/next/no-img-element
     <img
       loading="lazy"
       src={url}

@@ -4,9 +4,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint": "eslint ."
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.4",
     "dayjs": "^1.10.6",
     "heroicons": "^1.0.4",
     "next": "latest",
