@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import { XIcon, MicrophoneIcon, SearchIcon } from '@heroicons/react/solid';
 
 import { Avatar } from '../Avatar';
+import { HeaderOptions } from '../HeaderOptions';
 
 export const SearchHeader = () => {
   const router = useRouter();
@@ -54,6 +55,8 @@ export const SearchHeader = () => {
           seo="profile user"
         />
       </div>
+
+      <HeaderOptions />
     </header>
   );
 };
