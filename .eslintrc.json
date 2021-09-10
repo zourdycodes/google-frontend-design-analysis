@@ -30,6 +30,8 @@
     "react/no-unescaped-entities": "off",
     "react/no-array-index-key": "off",
     "no-useless-return": "off",
-    "no-return-assign": "off"
+    "no-return-assign": "off",
+    "no-console": "off",
+    "global-require": "off"
   }
 }

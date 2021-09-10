@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.4",
+    "@tailwindcss/line-clamp": "^0.2.1",
     "dayjs": "^1.10.6",
     "heroicons": "^1.0.4",
     "next": "latest",
