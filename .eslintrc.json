@@ -32,6 +32,7 @@
     "no-useless-return": "off",
     "no-return-assign": "off",
     "no-console": "off",
-    "global-require": "off"
+    "global-require": "off",
+    "jsx-a11y/anchor-is-valid": "off"
   }
 }
